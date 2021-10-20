@@ -1,0 +1,55 @@
+/* ======================================================================
+  Author Custom Styles
+====================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+*{
+  margin: 10px;
+  padding-top: 10px;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  align-items: flex-end;
+border: #2980b9;
+border-width: 2px;
+
+  }
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background: linear-gradient(120deg,#2980b9, #8e44ad);
+  height: 50vh;
+  overflow: hidden;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#password {
+  background-color: #ffffff; /* Green */
+  border: none;
+  color: #4CAF50;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#username {
+  background-color: #ffffff; /* Green */
+  border: none;
+  color: #4CAF50;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
