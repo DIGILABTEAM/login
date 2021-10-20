@@ -25,7 +25,7 @@ function getInfo() {
 	for(var i = 0; i < objPeople.length; i++) {
 		// check is user input matches username and password of a current index of the objPeople array
 		if(username == objPeople[i].username && password == objPeople[i].password) {
-			document.location ="https://independencephotobooth.000webhostapp.com/";
+			document.location ="https://online.fliphtml5.com/svfjb/asdi/#p=6";
 			// stop the function if this is found to be true
 			return
 		}
